@@ -15,7 +15,7 @@
 ## Clustering
 
 | ![Clustering 1](figure/Clustering1.jpg) | ![Clustering 2](figure/Clustering2.jpg) |
-
+|:--:|:--:|
 
 
 ---
