@@ -1,31 +1,33 @@
-# 🧠 Demonstrated Data Science Skills
+Demonstrated Data Science Skills
 
-## 📊 Basic Exploratory Data Analysis and Visualization
+Basic Exploratory Data Analysis and Visualization
 
-| ![Stacked Bar Plot](figures/Stacked_bar_plot.png) | ![Line Plot](figures/Line_plot.png) |
+| ![Stacked Bar Plot](figure/Stacked_bar_plot.png) | ![Line Plot](figure/Line_plot.png) |
 |:--:|:--:|
 | **Stacked Bar Plot** | **Line Plot** |
 
-| ![Piechart](figures/Piechart.png) | ![Bubble Plot](figures/Bubble_plot.png) |
+| ![Piechart](figure/Piechart.png) | ![Bubble Plot](figure/Bubble_plot.png) |
 |:--:|:--:|
 | **Piechart** | **Bubble Plot** |
 
 ---
 
-## 🔍 Clustering
+Clustering
 
-| ![Clustering 1](figures/Clustering1.jpg) | ![Clustering 2](figures/Clustering2.jpg) |
+| ![Clustering 1](figure/Clustering1.jpg) | ![Clustering 2](figure/Clustering2.jpg) |
 |:--:|:--:|
 | **Clustering Result 1** | **Clustering Result 2** |
 
 ---
 
-## 🤖 Classification
 
-![Classification (XGBoost)](figures/Classification.jpg)
+Classification
+
+![Classification (XGBoost)](figure/Classification.jpg)
 
 ---
 
 ### 💡 Notes
-- All figures are from personal projects demonstrating exploratory data analysis, clustering, and classification.
+- All figures are from published works demonstrating exploratory data analysis, clustering, and classification.
+- DOI: https://doi.org/10.1242/dmm.050870 & https://doi.org/10.1080/21678421.2025.2574690
 - Click images to view them in full size.
