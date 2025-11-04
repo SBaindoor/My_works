@@ -1,6 +1,6 @@
-#**Demonstrated Data Science Skills**
+# **Demonstrated Data Science Skills**
 
-##Basic Exploratory Data Analysis and Visualization
+## Basic Exploratory Data Analysis and Visualization
 
 | ![Stacked Bar Plot](figure/Stacked_bar_plot.png) | ![Line Plot](figure/Line_plot.png) |
 |:--:|:--:|
@@ -12,7 +12,7 @@
 
 ---
 
-##Clustering
+## Clustering
 
 | ![Clustering 1](figure/Clustering1.jpg) | ![Clustering 2](figure/Clustering2.jpg) |
 |:--:|:--:|
@@ -21,7 +21,7 @@
 ---
 
 
-##Classification
+## Classification
 
 ![Classification (XGBoost)](figure/Classification.jpg)
 
