@@ -16,7 +16,7 @@
 
 | ![Clustering 1](figure/Clustering1.jpg) | ![Clustering 2](figure/Clustering2.jpg) |
 |:--:|:--:|
-| **Clustering Result 1** | **Clustering Result 2** |
+| **Clustering** |
 
 ---
 
